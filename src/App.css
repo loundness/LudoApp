@@ -23,6 +23,11 @@
   color: #61dafb;
 }
 
+.Home-page{
+  background-color: orange;
+  min-height: 100vh;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
