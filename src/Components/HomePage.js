@@ -6,7 +6,8 @@ class HomePage extends React.Component {
     render () {
         return(
             <div className="Home-page">
-                <h1>Home Page</h1>
+                <img src="../img/homeImage.jpg" width= '100%' min-height='100vh'/>
+                
             </div>
         )
 }
