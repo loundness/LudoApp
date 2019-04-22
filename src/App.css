@@ -24,8 +24,16 @@
 }
 
 .Home-page{
-  background-Image: 'url( https://www.canva.com/fr_fr/decouvrir/wp-content/uploads/sites/14/2018/01/free-stock-photos-tb-1320x743.jpg)';
-  min-height: 100vh;
+ 
+}
+#jumbotronHome{
+  color:blanchedalmond;
+  background-color: blue;
+  height: 120px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+
 }
 
 @keyframes App-logo-spin {
