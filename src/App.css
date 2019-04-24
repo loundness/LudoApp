@@ -24,7 +24,7 @@
 }
 
 .Home-page{
- 
+  
 }
 #jumbotronHome{
   color:blanchedalmond;
@@ -34,6 +34,10 @@
   display: flex;
   justify-content: center;
 
+}
+.carouselHome{
+  width: 300px;
+  height: 300px;
 }
 
 @keyframes App-logo-spin {
