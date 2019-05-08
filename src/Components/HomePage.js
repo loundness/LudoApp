@@ -18,7 +18,7 @@ class HomePage extends React.Component {
                     </p>
                 </Container>
                 </Jumbotron>
-                <Carousel>
+                <Carousel className="carouselPage">
                     <Carousel.Item>
                         <img
                         className="carouselHome"
@@ -39,7 +39,7 @@ class HomePage extends React.Component {
                         />
 
                         <Carousel.Caption>
-                        <h3>Deuxiemes slide</h3>
+                        <h3>Deuxieme slide</h3>
                         <p>Velib à Paris.</p>
                         </Carousel.Caption>
                     </Carousel.Item>
